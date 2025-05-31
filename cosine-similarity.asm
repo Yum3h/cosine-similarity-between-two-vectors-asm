@@ -1,5 +1,5 @@
 .data
-    welcome_msg: .asciiz "Welcome to MIPS Assembly using MARS Simulator\nAn assembly program to compute the cosine similarity between two variables\nWritten by: Student Name; Student ID\n"
+    welcome_msg: .asciiz "Welcome to MIPS Assembly using MARS Simulator\nAn assembly program to compute the cosine similarity between two variables\nWritten by: Rami Alquran; 20231501078\n"
     size_prompt: .asciiz "Enter the vector size (between 5 and 10): "
     size_error: .asciiz "Error: Vector size must be between 5 and 10. Please try again.\n"
     invalid_input_msg: .asciiz "Error: Invalid input. Please enter a valid number.\n"
